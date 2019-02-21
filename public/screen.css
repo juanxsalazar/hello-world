@@ -10,3 +10,24 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+header {background-color: black;
+padding: 1rem}
+
+header h1 {
+  text-align: center;
+  font-size: 1.5em;
+  color: white;
+}
+
+.about {
+  text-align: center;
+}
+
+p { 
+  border:solid;
+  margin-left: 14%;
+  margin-right: 14%;
+  padding: .5rem;
+
+}
